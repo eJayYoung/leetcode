@@ -56,12 +56,18 @@ function twoSum(nums, target) {
  * @return {number[]}
  */
 function twoSum(nums, target) {
+  // 创建一个Map
   const map = new Map()
+  // 循环当前数组
   for (let i = 0; i < nums.length; i++) {
+    // 获取目标值与当前值的差值
     const num2 = target - nums[i]
+    // 若Map中存在差值
     if (map.has(num2)) {
+      // 返回差值坐标和当前值坐标
       return [map.get(num2), i]
     }
+    // 若Map中不存在差值，则存入该差值坐标
     map.set(num2, i)
   }
 }
