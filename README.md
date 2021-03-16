@@ -7,3 +7,8 @@
 - [回文数](Javascript/数学/is_palindrome.md)
 - [罗马数字转整数](Javascript/数学/roman_to_int.md)
 - [二进制求和](Javascript/数学/add_binary.md)
+- [字符串相乘](Javascript/数学/multiply_strings.md)
+- [十进制整数的反码](Javascript/数学/bitwise_complement.md)
+
+## 排序
+- [快速排序](Javascript/排序/quick_sort.md)
