@@ -12,3 +12,6 @@
 
 ## 排序
 - [快速排序](Javascript/排序/quick_sort.md)
+
+## 数组
+- [主要元素](Javascript/数组/majority_element.md)
