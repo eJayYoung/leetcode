@@ -16,3 +16,4 @@
 ## 数组
 - [主要元素](Javascript/数组/majority_element.md)
 - [删除有序数组中的重复项](Javascript/数组/remove_duplicates.md)
+- [买卖股票的最佳时机II](Javascript/数组/max_profit.md)
